@@ -1,5 +1,4 @@
 # Express.js & Node HTTP module & Bun Benchmark
-
 ## Script
 
 ```sh
@@ -23,3 +22,7 @@ oha -n 100000 -c 200 http://127.0.0.1:3000/
 ### Bun: 102106 requests/sec
 
 ![Bun](screenshots/bun-oha-n-100000-c-200.png)
+
+## Misc
+
+- [Bun benchmark test in 2022-07-17](https://github.com/shrekuu/try-bun-2022)
